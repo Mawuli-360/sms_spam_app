@@ -37,6 +37,10 @@ dependencies:
   permission_handler: ^11.3.1
   telephony: ^0.2.0
   tflite_flutter: ^0.10.4
+  url_launcher: ^6.3.0
+  flutter_background_service: ^5.0.7
+  flutter_local_notifications: ^17.2.2
+  liquid_pull_to_refresh: ^3.0.1
 
 dev_dependencies:
   flutter_lints: ^3.0.0
@@ -54,7 +58,7 @@ flutter:
   uses-material-design: true
   # To add assets to your application, add an assets section, like this:
   assets:
-    - assets/logistics.tflite
+    - assets/spam_detection_model.tflite
   #   - images/a_dot_ham.jpeg
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
