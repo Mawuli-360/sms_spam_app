@@ -73,6 +73,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.7.10"
+  english_words:
+    dependency: "direct main"
+    description:
+      name: english_words
+      sha256: "6a7ef6473a97bd8571b6b641d006a6e58a7c67e65fb6f3d6d1151cb46b0e983c"
+      url: "https://pub.dev"
+    source: hosted
+    version: "4.0.0"
   fake_async:
     dependency: transitive
     description:
@@ -208,6 +216,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "3.0.1"
+  lemmatizerx:
+    dependency: "direct main"
+    description:
+      name: lemmatizerx
+      sha256: "96fa82dec6eb8198515f87603f49c974346b2eabb3b1e21db52c16821a9162fd"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.0"
   lints:
     dependency: transitive
     description:

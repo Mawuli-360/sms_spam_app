@@ -41,6 +41,8 @@ dependencies:
   flutter_background_service: ^5.0.7
   flutter_local_notifications: ^17.2.2
   liquid_pull_to_refresh: ^3.0.1
+  english_words: ^4.0.0
+  lemmatizerx: ^1.0.0
 
 dev_dependencies:
   flutter_lints: ^3.0.0
